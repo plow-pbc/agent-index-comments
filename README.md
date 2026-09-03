@@ -17,3 +17,9 @@ discussion itself.
 
 The widget lives in `agent-index/index.html` of the (internal) aiworthusing
 repo, themed by `agent-index/giscus-theme.css`.
+
+## License
+
+Apache-2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE). Copyright 2026 The Plow Collective, Inc.
+
+"Plow" and the Plow logo are trademarks of The Plow Collective, Inc. The license grants no trademark rights.
